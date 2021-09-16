@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 requests = "*"
 pytest = "*"
+assertpy = "*"
+jsonpath-ng = "*"
+cerberus = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
